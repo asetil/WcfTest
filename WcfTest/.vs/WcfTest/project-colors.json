@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f73468e-43d3-45ce-a2b8-997d7ec4db11": {
+      "ProjectGuid": "0f73468e-43d3-45ce-a2b8-997d7ec4db11",
+      "DisplayName": "WcfClient",
+      "ColorIndex": 0
+    },
+    "68ff13b7-d64b-4366-bfa5-3cac6e11e3c0": {
+      "ProjectGuid": "68ff13b7-d64b-4366-bfa5-3cac6e11e3c0",
+      "DisplayName": "WorkerService1",
+      "ColorIndex": 1
+    },
+    "80d6ef1a-d72f-4219-825a-e34da253fdfc": {
+      "ProjectGuid": "80d6ef1a-d72f-4219-825a-e34da253fdfc",
+      "DisplayName": "CalculatorService",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
