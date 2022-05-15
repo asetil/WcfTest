@@ -1,0 +1,7 @@
+C:\Projects\WcfTest\WcfTest\CalculatorService\bin\CalculatorService.dll.config
+C:\Projects\WcfTest\WcfTest\CalculatorService\bin\CalculatorService.dll
+C:\Projects\WcfTest\WcfTest\CalculatorService\bin\CalculatorService.pdb
+C:\Projects\WcfTest\WcfTest\CalculatorService\obj\Release\CalculatorService.csproj.AssemblyReference.cache
+C:\Projects\WcfTest\WcfTest\CalculatorService\obj\Release\CalculatorService.csproj.CoreCompileInputs.cache
+C:\Projects\WcfTest\WcfTest\CalculatorService\obj\Release\CalculatorService.dll
+C:\Projects\WcfTest\WcfTest\CalculatorService\obj\Release\CalculatorService.pdb

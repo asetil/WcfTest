@@ -1,9 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 using WcfTestClient.Calculator;
 
 namespace WcfTestClient
@@ -18,6 +14,25 @@ namespace WcfTestClient
                 Operation = "Sum",
                 ValueList = (new List<int>() { 4, 5, 3, 8 }).ToArray(),
             });
+
+            Console.WriteLine("Calculate Result:" + response.Result);
+
+            var invalidResponse = client.Calculate(new CalculateItem()
+            {
+                Operation = "Namso",
+                ValueList = (new List<int>() { 4, 7, 4 }).ToArray(),
+            });
+
+            Console.WriteLine("--------------");
+            Console.WriteLine("Invalid Calculate Result:" + invalidResponse.Message);
+
+
+            var multiplied = client.Multiply(6, 9);
+
+            Console.WriteLine("--------------");
+            Console.WriteLine("Multiplied Result:" + multiplied + ", Expected:54");
+
+            Console.ReadLine();
         }
     }
 }

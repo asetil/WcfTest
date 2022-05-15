@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Projects\WcfTest\Published</_PublishTargetUrl>
+    <History>True|2022-05-15T15:35:02.4377503Z;True|2022-05-15T18:32:56.0442582+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CalculatorService.dll">
+      <publishTime>05/15/2022 18:32:40</publishTime>
+    </File>
+    <File Include="bin/CalculatorService.pdb">
+      <publishTime>05/15/2022 18:32:40</publishTime>
+    </File>
+    <File Include="CalculatorService.svc">
+      <publishTime>05/15/2022 18:25:39</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>05/15/2022 18:34:59</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/15/2022 18:34:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,7 +1,6 @@
 C:\Projects\WcfTest\WcfTest\WcfTestClient\bin\Debug\WcfTestClient.exe.config
 C:\Projects\WcfTest\WcfTest\WcfTestClient\bin\Debug\WcfTestClient.exe
 C:\Projects\WcfTest\WcfTest\WcfTestClient\bin\Debug\WcfTestClient.pdb
-C:\Projects\WcfTest\WcfTest\WcfTestClient\obj\Debug\WcfTestClient.csproj.AssemblyReference.cache
 C:\Projects\WcfTest\WcfTest\WcfTestClient\obj\Debug\WcfTestClient.csproj.SuggestedBindingRedirects.cache
 C:\Projects\WcfTest\WcfTest\WcfTestClient\obj\Debug\WcfTestClient.csproj.CoreCompileInputs.cache
 C:\Projects\WcfTest\WcfTest\WcfTestClient\obj\Debug\WcfTestClient.exe
